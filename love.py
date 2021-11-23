@@ -30,7 +30,7 @@ except ImportError:
 
  
 
-    os.system("python2 your-name.py")
+    os.system("python2 love.py")
 
     
 
@@ -82,7 +82,7 @@ if not os.path.isfile("/data/data/com.termux/files/home/mz-pro/...../node_module
 
  
 
-    time.sleep(10)
+    time.sleep(1)
 
  
 
@@ -147,7 +147,7 @@ logo = """
 \033[1;92m Twitter  : Bangsat_XD
 \033[1;91m-DO NOT COPY MY SCRIPT
 \033[1;92m TEAM     : GARANGAN
-\033[1;93m GROUP: \033[1:92mCOMUNITAS GARANGAN ALAY INDONESIA
+\033[1;93m GROUP: \033[1;92mCOMUNITAS GARANGAN ALAY INDONESIA
 \033[1;91m-----------------------------------------------                           
 
       USE 4G FAST SPED INTERNET FOR BEST RESULT
@@ -242,7 +242,7 @@ def main_select():
 
 	main()   
 
-    elif AKASH=="0":
+    elif Bangsat=="0":
 
  
 
@@ -258,7 +258,7 @@ def main_select():
 
  
 
-        time.sleep(2)
+        time.sleep(1)
 
  
 
@@ -436,7 +436,7 @@ def login_select():
 
  
 
-    elif AKASH=="2":
+    elif Bangsat=="2":
 
  
 
@@ -444,7 +444,7 @@ def login_select():
 
  
 
-    elif AKASH =="3":
+    elif Bangsat =="3":
 
  
 
@@ -862,7 +862,7 @@ def menu_select():
 
  
 
-		    time.sleep(3)
+		    time.sleep(1)
 
  
 
