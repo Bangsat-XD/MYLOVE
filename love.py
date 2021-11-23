@@ -143,24 +143,18 @@ logo = """
                                                    
 
 \033[1;91m-----------------------------------------------
-\033[1;93m Autor    : ☆ RAKA ☆ ™︻®╤───────═◍➤
+\033[1;93m Autor    : \033[1;92m☆ RAKA ☆ ™︻®╤───────═◍➤
 \033[1;92m Twitter  : Bangsat_XD
-\033[1;91m-DO NOT COPY MY SCRIPT
+\033[1;91m☠DO NOT COPY MY SCRIPT☠
 \033[1;92m TEAM     : GARANGAN
-\033[1;93m GROUP: \033[1;92mCOMUNITAS GARANGAN ALAY INDONESIA
+\033[1;93m GROUP    : \033[1;92mCOMUNITAS GARANGAN ALAY INDONESIA
 \033[1;91m-----------------------------------------------                           
-
-      USE 4G FAST SPED INTERNET FOR BEST RESULT
-
+      ───────═◍USE 4G FAST SPED INTERNET FOR BEST RESULT◍═───────
 \033[1;91m--------------------RAKA.💚.AMANDA---------------------
 
  
 
 """
-
- 
-
- 
 
  
 
