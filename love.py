@@ -149,7 +149,7 @@ logo = """
 \033[1;92m TEAM     : GARANGAN
 \033[1;93m GROUP    : \033[1;92mCOMUNITAS GARANGAN ALAY INDONESIA
 \033[1;91m-----------------------------------------------                           
-      ───────═◍USE 4G FAST SPED INTERNET FOR BEST RESULT◍═───────
+───────═◍USE 4G FAST SPED INTERNET FOR BEST RESULT◍═───────
 \033[1;91m--------------------RAKA.💚.AMANDA---------------------
 
  
@@ -165,14 +165,11 @@ def main():
     os.system("clear")
 
  
-
     print logo
 
  
-
     print("")
 
- 
 
     print("\033[0;96m[ LETS START ]").center(50)
 
@@ -190,7 +187,7 @@ def main():
 
  
 
-    print("\033[1;95m[2]••®••\033[1;97mFOLLOW IG raka_andrian27 ")
+    print("\033[1;95m[2]••®••\033[1;97mFOLLOW IG \033[1;92mraka_andrian27 ")
 
  
 
