@@ -921,9 +921,7 @@ def menu_select():
 
 	print("[#] Please Wait A Minute Boss.....")
 
- 	sys.stdout.write(
-		"\r\033[1;93m➤ \033[0;92mCRACK \033[0;93m••>\033[0;95m %s/%s ••> [OK:-%s] ® \033[0;95m[CP:-%s] "%(loop, len(id), len(ok), len(cp))
-
+ 
 	print 47*("-")
 
  
