@@ -463,12 +463,6 @@ def login_select():
 
  
 
- 
-
- 
-
- 
-
 def menu():
 
  
@@ -921,7 +915,7 @@ def menu_select():
 
  
 
-	time.sleep(0.5)
+	time.sleep(0.001)
 
  
 
@@ -934,10 +928,6 @@ def menu_select():
  
 
 	print('')
-
- 
-
-	
 
  
 
