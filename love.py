@@ -143,17 +143,11 @@ logo = """
                                                    
 
 \033[1;91m-----------------------------------------------
-
-\033[1;93m AUTHOR ☆ RAKA ☆ ™︻®╤───────═◍➤
-
+\033[1;93m Autor    : ☆ RAKA ☆ ™︻®╤───────═◍➤
 \033[1;92m Twitter  : Bangsat_XD
-
 \033[1;91m-DO NOT COPY MY SCRIPT
-
-\033[1;92m TEAM:    ☆ RAKA ☆ ™︻®╤───────═◍➤
-
-\033[1;93m GROUP: Comunitas Garangan Alay Indonesia
-
+\033[1;92m TEAM     : GARANGAN
+\033[1;93m GROUP: \033[1:92mCOMUNITAS GARANGAN ALAY INDONESIA
 \033[1;91m-----------------------------------------------                           
 
       USE 4G FAST SPED INTERNET FOR BEST RESULT
@@ -242,7 +236,7 @@ def main_select():
 
  
 
-        os.system("xdg-open https://www.facebook.com/THANDA.BABAA")
+        os.system("xdg-open https://www.facebook.com/GARANGAN.KECHE")
 
  
 
@@ -434,7 +428,7 @@ def login_select():
 
  
 
-            time.sleep(2)
+            time.sleep(1)
 
  
 
@@ -588,7 +582,7 @@ def menu():
 
  
 
-        time.sleep(2)
+        time.sleep(1)
 
  
 
@@ -640,7 +634,7 @@ def menu():
 
  
 
-    print("\033[1;97m[0]\033[1;97mEXIT MR AKASH")
+    print("\033[1;97m[0]\033[1;97mEXIT")
 
  
 
@@ -924,7 +918,7 @@ def menu_select():
 
  
 
-	    time.sleep(2)
+	    time.sleep(1)
 
  
 
@@ -1124,7 +1118,7 @@ def menu_select():
 
  
 
-		                        print("\033[1;93m[AKASH>CP] "+uid+" = "+pass3)
+		                        print("\033[1;93m[RAKA_AMANDA] "+uid+" = "+pass3)
 
  
 
@@ -1152,7 +1146,7 @@ def menu_select():
 
  
 
-		                            print("\x1b[1;97m[AKASH = OK] "+uid+" = "+pass3+"\x1b[1;0m")
+		                            print("\x1b[1;97m[RAKA_AMANDA] "+uid+" = "+pass3+"\x1b[1;0m")
 
  
 
@@ -1192,7 +1186,7 @@ def menu_select():
 
  
 
-		                                print("\033[1;93m[AKASH>CP] "+uid+" = "+pass4)
+		                                print("\033[1;93m[RAKA_AMANDA] "+uid+" = "+pass4)
 
  
 
@@ -1220,7 +1214,7 @@ def menu_select():
 
  
 
-		                                    print("\x1b[1;97m[AKASH = OK] "+uid+" = "+pass4+"\x1b[1;0m")
+		                                    print("\x1b[1;97m[RAKA_AMANDA] "+uid+" = "+pass4+"\x1b[1;0m")
 
  
 
@@ -1260,7 +1254,7 @@ def menu_select():
 
  
 
-		                                        print("\033[1;93m[AKASH>CP] "+uid+" = "+pass5)
+		                                        print("\033[1;93m[RAKA_AMANDA] "+uid+" = "+pass5)
 
  
 
@@ -1288,7 +1282,7 @@ def menu_select():
 
  
 
-		                                            print("\x1b[1;97m[AKASH = OK] "+uid+" = "+pass5+"\x1b[1;0m")
+		                                            print("\x1b[1;97m[RAKA_AMANDA] "+uid+" = "+pass5+"\x1b[1;0m")
 
  
 
@@ -1328,7 +1322,7 @@ def menu_select():
 
  
 
-		                                                print("\033[1;93m[AKASH>CP] "+uid+" = "+pass6)
+		                                                print("\033[1;93m[RAKA_AMANDA] "+uid+" = "+pass6)
 
  
 
@@ -1356,7 +1350,7 @@ def menu_select():
 
  
 
-		                                                    print("\x1b[1;97m[AKASH = OK] "+uid+" = "+pass6+"\x1b[1;0m")
+		                                                    print("\x1b[1;97m[RAKA_AMANDA] "+uid+" = "+pass6+"\x1b[1;0m")
 
  
 
@@ -1396,7 +1390,7 @@ def menu_select():
 
  
 
-		                                                        print("\033[1;93m[AKASH>CP] "+uid+" = "+pass7)
+		                                                        print("\033[1;93m[RAKA_AMANDA] "+uid+" = "+pass7)
 
  
 
@@ -1424,7 +1418,7 @@ def menu_select():
 
  
 
-		                                                            print("\x1b[1;97m[AKASH = OK] "+uid+" = "+pass7+"\x1b[1;0m")
+		                                                            print("\x1b[1;97m[RAKA_AMANDA] "+uid+" = "+pass7+"\x1b[1;0m")
 
  
 
@@ -1484,7 +1478,7 @@ def menu_select():
 
  
 
-	print ("[!] ALLAH HAFFEEZ BROTHER. Total Cp/Ok : "+str(len(cps)) + "/"+str(len(oks)))
+	print ("[!] ☆ RAKA ☆ ™︻®╤───────═◍➤. Total Cp/Ok : "+str(len(cps)) + "/"+str(len(oks)))
 
  
 
