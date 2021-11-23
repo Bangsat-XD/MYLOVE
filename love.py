@@ -922,7 +922,10 @@ def menu_select():
 	print("[#] Please Wait A Minute Boss.....")
 
  
-	print 47*("-")
+
+ 
+
+	print (47*"-")
 
  
 
