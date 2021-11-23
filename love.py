@@ -182,7 +182,7 @@ def main():
 
  
 
-    print("\033[1;96m[1]\033[1;97mSTART CLONING....")
+    print("\033[1;96m[1]••®••\033[1;97mSTART CLONING....")
 
  
 
@@ -190,7 +190,7 @@ def main():
 
  
 
-    print("\033[1;95m[2]\033[1;97mFOLLOW IG raka_andrian27 ")
+    print("\033[1;95m[2]••®••\033[1;97mFOLLOW IG raka_andrian27 ")
 
  
 
@@ -198,7 +198,7 @@ def main():
 
  
 
-    print("\033[1;91m[0]\033[1;97mEXIT")
+    print("\033[1;91m[0]••®••\033[1;97mEXIT")
 
  
 
@@ -284,7 +284,7 @@ def login():
 
  
 
-    print("\033[1;97m[1]\033[1;96mLogin Using Token")
+    print("\033[1;97m[1]••®••\033[1;96mLogin Using Token")
 
  
 
@@ -292,7 +292,7 @@ def login():
 
  
 
-    print("\033[1;97m[2]\033[1;96mHOW TO GET FREE TOKEN.")
+    print("\033[1;97m[2]••®••\033[1;96mHOW TO GET FREE TOKEN.")
 
  
 
@@ -300,7 +300,7 @@ def login():
 
  
 
-    print("\033[1;97m[3]\033[1;91mBack")
+    print("\033[1;97m[3]••®••\033[1;91mBack")
 
  
 
@@ -604,7 +604,7 @@ def menu():
 
  
 
-    print("\033[1;97m[1]\033[1;92mCrack From Friendlist")
+    print("\033[1;97m[1]••®••\033[1;92mCrack From Friendlist")
 
  
 
@@ -612,7 +612,7 @@ def menu():
 
  
 
-    print("\033[1;97m[2]\033[1;92mCrack From Public id")
+    print("\033[1;97m[2]••®••\033[1;92mCrack From Public id")
 
  
 
@@ -620,7 +620,7 @@ def menu():
 
  
 
-    print("\033[1;97m[3]\033[1;92mCrack From Followers id")
+    print("\033[1;97m[3]••®••\033[1;92mCrack From Followers id")
 
  
 
@@ -628,7 +628,7 @@ def menu():
 
  
 
-    print("\033[1;97m[0]\033[1;97mEXIT")
+    print("\033[1;97m[0]••®••\033[1;97mEXIT")
 
  
 
