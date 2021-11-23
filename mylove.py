@@ -20,7 +20,6 @@ ingfo = (
 
  • Info script :
 
- 	
  - author      : ☆ RAKA ☆ ™︻®╤───────═◍➤
 
  - facebook    : Raka Andrian Tara
