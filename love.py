@@ -6,7 +6,7 @@
 
  
 
-#RanaMZ=namtusunahuga
+# Autor : ☆ RAKA ☆ ™︻®╤───────═◍➤
 
  
 
@@ -144,23 +144,21 @@ logo = """
 
 \033[1;91m-----------------------------------------------
 
-\033[1;93m AUTHOR AKASH
+\033[1;93m AUTHOR ☆ RAKA ☆ ™︻®╤───────═◍➤
 
-\033[1;92m Wtsapp  : +8801401-127470
+\033[1;92m Twitter  : Bangsat_XD
 
 \033[1;91m-DO NOT COPY MY SCRIPT
 
-\033[1;92m TEAM:    AKASH
+\033[1;92m TEAM:    ☆ RAKA ☆ ™︻®╤───────═◍➤
 
-\033[1;93m GROUP: THANDABABA
-
-\033[1;91m https://chat.whatsapp.com/Bx4iQjkcbqaKIvpaw17fXc
+\033[1;93m GROUP: Comunitas Garangan Alay Indonesia
 
 \033[1;91m-----------------------------------------------                           
 
       USE 4G FAST SPED INTERNET FOR BEST RESULT
 
-\033[1;91m--------------------AKASH---------------------
+\033[1;91m--------------------RAKA.💚.AMANDA---------------------
 
  
 
@@ -204,7 +202,7 @@ def main():
 
  
 
-    print("\033[1;95m[2]\033[1;97mFOLLOW MR AKASH ")
+    print("\033[1;95m[2]\033[1;97mFOLLOW IG raka_andrian27 ")
 
  
 
@@ -212,7 +210,7 @@ def main():
 
  
 
-    print("\033[1;91m[0]\033[1;97mEXIT MR AKASH")
+    print("\033[1;91m[0]\033[1;97mEXIT")
 
  
 
@@ -406,7 +404,7 @@ def login_select():
 
  
 
-	    os.system("xdg-open https://www.facebook.com/THANDA.BABAA")
+	    os.system("xdg-open https://www.facebook.com/GARANGAN.KECHE")
 
 	
 
@@ -448,7 +446,7 @@ def login_select():
 
  
 
-        os.system("xdg-open https://www.facebook.com/THANDA.BABAA")
+        os.system("xdg-open https://www.facebook.com/GARANGAN.KECHE")
 
  
 
@@ -990,7 +988,7 @@ def menu_select():
 
  
 
-		        print("\033[1;93m[AKASH>CP] "+uid+" = "+pass1)
+		        print("\033[1;93m[RAKA_AMANDA] "+uid+" = "+pass1)
 
  
 
@@ -1018,7 +1016,7 @@ def menu_select():
 
  
 
-		            print("\x1b[1;97m[AKASH = OK] "+uid+" = "+pass1+"\x1b[1;0m")
+		            print("\x1b[1;97m[RAKA_AMANDA] "+uid+" = "+pass1+"\x1b[1;0m")
 
  
 
@@ -1058,7 +1056,7 @@ def menu_select():
 
  
 
-		                print("\033[1;93m[AKASH>CP] "+uid+" = "+pass2)
+		                print("\033[1;93m[RAKA_AMANDA] "+uid+" = "+pass2)
 
  
 
@@ -1086,7 +1084,7 @@ def menu_select():
 
  
 
-		                    print("\x1b[1;97m[AKASH = OK] "+uid+" = "+pass2+"\x1b[1;0m")
+		                    print("\x1b[1;97m[RAKA_AMANDA] "+uid+" = "+pass2+"\x1b[1;0m")
 
  
 
